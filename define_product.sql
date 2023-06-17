@@ -105,7 +105,7 @@ FROM (
         subcategory_1,
         life_cycle,
         is_active,
-				cbm_master,
+	cbm_master,
         published_status,
         sell_type,
         sell_status,
